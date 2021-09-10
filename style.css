@@ -3,3 +3,70 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+header {
+    width: 100vw;
+    height: 600px;
+    background-color: blueviolet;
+}
+
+main {
+    width: 100vw;
+    height: 700px;
+    background-color: red;
+}
+
+.barra {
+    width: 60%;
+    height: 100px;
+    background-color: lightblue;
+    margin-left: 20%;
+}
+
+.logo {
+    width: 20%;
+    height: 100px;
+    background-color: blue;
+    float: left;
+    top: 0;
+    left: 0;
+}
+
+.accedi {
+    width: 20%;
+    height: 100px;
+    background-color: blue;
+    float: right;
+    top: 0;
+    right: 0;
+}
+
+.testo {
+    width: 30%;
+    height: 200px;
+    background-color: blue;
+    margin-left: 35%;
+    margin-top: 10rem;
+}
+
+.img-rana {
+    width: 35%;
+    height: 700px;
+    background-color: yellow;
+    margin-left: 20%;
+    float: left;
+}
+
+.testo-destra {
+    width: 25%;
+    height: 700px;
+    background-color: rosybrown;
+    float: right;
+    margin-right: 20%;
+}
