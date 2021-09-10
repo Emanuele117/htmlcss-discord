@@ -22,6 +22,12 @@ main {
     background-color: red;
 }
 
+footer {
+    width: 100vw;
+    height: 800px;
+    background-color: darkorange;
+}
+
 .barra {
     width: 60%;
     height: 100px;
@@ -130,4 +136,55 @@ main {
     background-color: darkgray;
     float: left;
     margin-left: 20%;
+}
+
+.social {
+    width: 20%;
+    height: 500px;
+    background-color: darkred;
+    float: left;
+    margin-left: 20%;
+}
+
+.prodotto {
+    width: 10%;
+    height: 500px;
+    background-color: darkslateblue;
+    float: left;
+}
+
+.compagnia {
+    width: 10%;
+    height: 500px;
+    background-color: greenyellow;
+    float: left;
+}
+
+.risorse {
+    width: 10%;
+    height: 500px;
+    background-color: hotpink;
+    float: left;
+}
+
+.norme {
+    width: 10%;
+    height: 500px;
+    background-color: khaki;
+    float: left;
+}
+
+.logo2 {
+    width: 30%;
+    height: 150px;
+    background-color: lightseagreen;
+    float: left;
+    margin-left: 20%;
+}
+
+.registrati {
+    width: 30%;
+    height: 150px;
+    background-color: magenta;
+    float: left;
 }
