@@ -18,7 +18,7 @@ header {
 
 main {
     width: 100vw;
-    height: 700px;
+    height: 2700px;
     background-color: red;
 }
 
@@ -57,7 +57,7 @@ main {
 
 .img-rana {
     width: 35%;
-    height: 700px;
+    height: 500px;
     background-color: yellow;
     margin-left: 20%;
     float: left;
@@ -65,8 +65,69 @@ main {
 
 .testo-destra {
     width: 25%;
-    height: 700px;
+    height: 500px;
     background-color: rosybrown;
     float: right;
     margin-right: 20%;
+}
+
+.testo-sinistra {
+    width: 25%;
+    height: 500px;
+    background-color: salmon;
+    float: left;
+    margin-left: 20%;
+    margin-top: 6rem;
+}
+
+.img-mago {
+    width: 35%;
+    height: 500px;
+    background-color: seashell;
+    margin-right: 20%;
+    margin-top: 6rem;
+    float: right;
+}
+
+.img-libro {
+    width: 35%;
+    height: 500px;
+    background-color: springgreen;
+    margin-left: 20%;
+    float: left;
+    margin-top: 6rem;
+}
+
+.testo-destra2 {
+    width: 25%;
+    height: 500px;
+    background-color: sienna;
+    margin-right: 20%;
+    float: right;
+    margin-top: 6rem;
+}
+
+.scritta-tecnologia {
+    width: 60%;
+    height: 200px;
+    background-color: brown;
+    float: left;
+    margin-top: 6rem;
+    margin-left: 20%;
+}
+
+.img-centrale {
+    width: 60%;
+    height: 400px;
+    background-color: cyan;
+    float: left;
+    margin-left: 20%;
+}
+
+.download {
+    width: 60%;
+    height: 200px;
+    background-color: darkgray;
+    float: left;
+    margin-left: 20%;
 }
