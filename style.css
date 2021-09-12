@@ -25,8 +25,8 @@ main {
 
 footer {
     width: 100vw;
-    height: 800px;
-    background-color: darkorange;
+    height: 700px;
+    background-color: black;
 }
 
 .barra {
@@ -244,6 +244,8 @@ footer {
 .titolo-download {
     font-size: 40px;
     margin-bottom: 3rem;
+    background-image: url(./img/stars.svg);
+    background-size: cover;
 }
 
 .scarica2 {
@@ -262,43 +264,144 @@ footer {
 .social {
     width: 20%;
     height: 500px;
-    background-color: darkred;
+    /* background-color: darkred; */
     float: left;
     margin-left: 20%;
+}
+
+.titolo-social {
+    color: lightblue;
+    margin-top: 4rem;
+}
+
+.ita {
+    color: white;
+    margin-top: 2rem;
+}
+
+.freccia {
+    font-weight: bold;
+}
+
+.bandiera-italiana {
+    float: left;
+    width: 8%;
+    margin-right: 5px;
+    margin-top: 2rem;
+}
+
+.twitter {
+    margin-top: 1rem;
+    width: 10%;
+}
+
+.instagram {
+    margin-bottom: 0.5rem;
+    width: 10%;
+    margin-left: 1rem;
+}
+
+.facebook {
+    margin-bottom: 0.5rem;
+    width: 10%;
+    margin-left: 1rem;
+}
+
+.youtube {
+    margin-bottom: 0.5rem;
+    margin-left: 1rem;
+    width: 10%;
 }
 
 .prodotto {
     width: 10%;
     height: 500px;
-    background-color: darkslateblue;
+    /* background-color: darkslateblue; */
     float: left;
+}
+
+.titolo-prodotto {
+    color: lightblue;
+    margin-top: 4.5rem;
+    font-size: 18px;
+}
+
+.lista1 {
+    list-style-type: none;
+    color: white;
+    line-height: 2rem;
+    margin-top: 1rem;
 }
 
 .compagnia {
     width: 10%;
     height: 500px;
-    background-color: greenyellow;
+    /* background-color: greenyellow; */
     float: left;
+}
+
+.titolo-compagnia {
+    color: lightblue;
+    margin-top: 4.5rem;
+    font-size: 18px;
+}
+
+.lista2 {
+    list-style-type: none;
+    color: white;
+    line-height: 2rem;
+    margin-top: 1rem;
 }
 
 .risorse {
     width: 10%;
     height: 500px;
-    background-color: hotpink;
+    /* background-color: hotpink; */
     float: left;
+}
+
+.titolo-risorse {
+    color: lightblue;
+    margin-top: 4.5rem;
+    font-size: 18px;
+}
+
+.lista3 {
+    list-style-type: none;
+    color: white;
+    line-height: 2rem;
+    margin-top: 1rem;
 }
 
 .norme {
     width: 10%;
     height: 500px;
-    background-color: khaki;
+    /* background-color: khaki; */
     float: left;
+}
+
+.titolo-norme {
+    color: lightblue;
+    margin-top: 4.5rem;
+    font-size: 18px;
+}
+
+.lista4 {
+    list-style-type: none;
+    color: white;
+    line-height: 2rem;
+    margin-top: 1rem;
+}
+
+.linea {
+    color: lightblue;
+    height: 5px;
 }
 
 .logo2 {
     width: 30%;
     height: 150px;
-    background-color: lightseagreen;
+    /* background-color: lightseagreen; */
     float: left;
     margin-left: 20%;
 }
@@ -306,6 +409,17 @@ footer {
 .registrati {
     width: 30%;
     height: 150px;
-    background-color: magenta;
+    /* background-color: magenta; */
     float: left;
+}
+
+.registrati2 {
+    padding: 12px;
+    height: 40px;
+    float: right;
+    top: 0;
+    right: 0;
+    background-color: lightskyblue;
+    color: white;
+    border-radius: 20%;
 }
