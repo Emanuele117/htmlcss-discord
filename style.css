@@ -421,12 +421,12 @@ footer {
 }
 
 .registrati2 {
-    padding: 12px;
+    padding: 7px 16px;
     height: 40px;
     float: right;
     top: 0;
     right: 0;
     background-color: lightskyblue;
     color: white;
-    border-radius: 20%;
+    border-radius: 40px;
 }
