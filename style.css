@@ -411,6 +411,7 @@ footer {
     /* background-color: lightseagreen; */
     float: left;
     margin-left: 20%;
+    margin-top: 2rem;
 }
 
 .registrati {
@@ -418,6 +419,17 @@ footer {
     height: 150px;
     /* background-color: magenta; */
     float: left;
+    margin-top: 2rem;
+}
+
+.linea {
+    width: 60%;
+    height: 10px;
+    margin-left: 20%;
+}
+
+.linea-blu {
+    background-color: lightblue;
 }
 
 .registrati2 {
