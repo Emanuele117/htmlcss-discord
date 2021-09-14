@@ -19,7 +19,7 @@ header {
 
 main {
     width: 100vw;
-    height: 3400px;
+    /* height: 3400px; */
     /*  background-color: red; */
 }
 
@@ -146,6 +146,17 @@ footer {
     font-size: 20px;
 }
 
+.onde {
+    color: lightgrey;
+    margin-bottom: -1rem;
+}
+
+.parte-grigia {
+    background-color: lightgrey;
+    width: 100vw;
+    height: 600px;
+}
+
 .testo-sinistra {
     width: 25%;
     height: 500px;
@@ -173,6 +184,13 @@ footer {
     margin-top: 6rem;
     float: right;
     background-size: cover;
+}
+
+.onde2 {
+    rotate: 180deg;
+    color: lightgray;
+    margin-top: -1rem;
+    transform: rotate(180deg);
 }
 
 .img-libro {
@@ -204,6 +222,18 @@ footer {
 .paragrafo-libro {
     margin-top: 2rem;
     font-size: 20px;
+}
+
+.onde3 {
+    color: lightgrey;
+    margin-bottom: -1rem;
+    margin-top: 2rem;
+}
+
+.parte-grigia2 {
+    background-color: lightgray;
+    width: 100vw;
+    height: 1250px;
 }
 
 .scritta-tecnologia {
